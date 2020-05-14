@@ -1,2 +1,2 @@
 # datasciencecoursera
-The repository for the course project.
+The repository for the Data Scientist's Toolbox course project.
